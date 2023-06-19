@@ -1,0 +1,32 @@
+# Translation of Plugins - SB Children block - Stable (latest release) in English (UK)
+# This file is distributed under the same license as the Plugins - SB Children block - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-08-06 13:30:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: en_GB\n"
+"Project-Id-Version: Plugins - SB Children block - Stable (latest release)\n"
+
+#. Author URI of the plugin
+msgid "https://www.bobbingwide.com/about-bobbing-wide"
+msgstr "https://www.bobbingwide.com/about-bobbing-wide"
+
+#. Author of the plugin
+msgid "bobbingwide"
+msgstr "bobbingwide"
+
+#. Description of the plugin
+msgid "List children of the current content as links."
+msgstr "List children of the current content as links."
+
+#. Plugin URI of the plugin
+msgid "https://www.oik-plugins.com/oik-plugins/sb-children-block"
+msgstr "https://www.oik-plugins.com/oik-plugins/sb-children-block"
+
+#. Plugin Name of the plugin
+msgid "SB Children block"
+msgstr "SB Children block"

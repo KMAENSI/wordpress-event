@@ -1,0 +1,8 @@
+[01-May-2023 13:15:48 UTC] wp_auto_login: trying to login user_id==1 loginusername=kamel2009@gmail.com to admin_url=http://khaledm23.sg-host.com/wp-admin/
+[13-Jun-2023 11:23:21 UTC] wp_auto_login: trying to login user_id==1 loginusername=kamel2009@gmail.com to admin_url=http://khaledm23.sg-host.com/wp-admin/
+[13-Jun-2023 11:25:03 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[13-Jun-2023 11:25:03 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[13-Jun-2023 11:29:00 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[13-Jun-2023 11:29:00 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[13-Jun-2023 11:41:02 UTC] wp_auto_login: trying to login user_id==1 loginusername=kamel2009@gmail.com to admin_url=http://khaledm23.sg-host.com/wp-admin/
+[16-Jun-2023 13:53:45 UTC] wp_auto_login: trying to login user_id==1 loginusername=kamel2009@gmail.com to admin_url=http://khaledm23.sg-host.com/wp-admin/

@@ -1,0 +1,1 @@
+[15-Jun-2023 10:37:32 UTC] WordPress database error Table 'dbgn42lxswgifp.ttu_trp_dictionary_fr_fr_' doesn't exist for query SELECT COUNT(id) FROM ttu_trp_dictionary_fr_fr_ WHERE translated != '' made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, TRP_Plugin_Optin->process_optin_actions
